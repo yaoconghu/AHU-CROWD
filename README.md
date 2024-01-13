@@ -10,6 +10,8 @@ Code: i2ql
 
 
 Paper Citation:
+
+
 @article{HU2016530,
 title = {Dense crowd counting from still images with convolutional neural networks},
 journal = {Journal of Visual Communication and Image Representation},
